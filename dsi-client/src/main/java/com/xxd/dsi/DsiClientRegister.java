@@ -1,8 +1,8 @@
-package com.xuxd.dsi;
+package com.xxd.dsi;
 
-import com.xuxd.dsi.annotation.ServiceInfo;
-import com.xuxd.dsi.scanner.ClassPathInterfaceBeanDefinitionScanner;
-import com.xuxd.dsi.stub.DsiStubFactoryBean;
+import com.xxd.dsi.annotation.ServiceInfo;
+import com.xxd.dsi.scanner.ClassPathInterfaceBeanDefinitionScanner;
+import com.xxd.dsi.stub.DsiStubFactoryBean;
 import org.springframework.beans.factory.annotation.AnnotatedBeanDefinition;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.config.BeanDefinitionHolder;
@@ -27,7 +27,7 @@ import java.util.Set;
 /**
  * @Auther: 许晓东
  * @Date: 19-7-19 15:29
- * @Description:
+ * @Description: 注册service info bean.
  */
 class DsiClientRegister implements ImportBeanDefinitionRegistrar, EnvironmentAware, ResourceLoaderAware {
     private Environment environment;

@@ -1,7 +1,7 @@
-package com.xuxd.dsi.proxy;
+package com.xxd.dsi.proxy;
 
-import com.xuxd.dsi.beans.Response;
-import com.xuxd.dsi.invoke.Invoker;
+import com.xxd.dsi.beans.Response;
+import com.xxd.dsi.invoke.Invoker;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

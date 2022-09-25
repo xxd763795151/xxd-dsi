@@ -1,4 +1,4 @@
-package com.xuxd.dsi;
+package com.xxd.dsi;
 
 import org.springframework.context.annotation.Import;
 

@@ -1,4 +1,4 @@
-package com.xuxd.dsi.proxy;
+package com.xxd.dsi.proxy;
 
 import java.lang.reflect.InvocationHandler;
 

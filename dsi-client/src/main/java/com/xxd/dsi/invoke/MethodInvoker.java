@@ -1,6 +1,6 @@
-package com.xuxd.dsi.invoke;
+package com.xxd.dsi.invoke;
 
-import com.xuxd.dsi.beans.Response;
+import com.xxd.dsi.beans.Response;
 
 import java.util.HashMap;
 import java.util.Map;

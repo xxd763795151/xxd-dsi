@@ -1,9 +1,9 @@
-package com.xuxd.dsi.stub;
+package com.xxd.dsi.stub;
 
-import com.xuxd.dsi.annotation.ServiceInfo;
-import com.xuxd.dsi.invoke.MethodInvoker;
-import com.xuxd.dsi.proxy.Invocation;
-import com.xuxd.dsi.proxy.InvocationHandlerFactory;
+import com.xxd.dsi.annotation.ServiceInfo;
+import com.xxd.dsi.invoke.MethodInvoker;
+import com.xxd.dsi.proxy.Invocation;
+import com.xxd.dsi.proxy.InvocationHandlerFactory;
 import org.springframework.core.MethodIntrospector;
 import org.springframework.core.annotation.AnnotationUtils;
 import org.springframework.util.ReflectionUtils;

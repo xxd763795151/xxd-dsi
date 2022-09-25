@@ -1,4 +1,4 @@
-package com.xuxd.dsi.invoke;
+package com.xxd.dsi.invoke;
 
 /**
  * @Auther: 许晓东

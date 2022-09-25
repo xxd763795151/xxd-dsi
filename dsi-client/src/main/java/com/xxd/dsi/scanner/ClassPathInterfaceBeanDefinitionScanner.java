@@ -1,4 +1,4 @@
-package com.xuxd.dsi.scanner;
+package com.xxd.dsi.scanner;
 
 import org.springframework.beans.factory.annotation.AnnotatedBeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;

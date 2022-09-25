@@ -1,4 +1,4 @@
-package com.xuxd.dsi.stub;
+package com.xxd.dsi.stub;
 
 import org.springframework.beans.factory.FactoryBean;
 

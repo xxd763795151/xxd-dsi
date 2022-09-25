@@ -1,4 +1,4 @@
-package com.xuxd.dsi.beans;
+package com.xxd.dsi.beans;
 
 /**
  * @Auther: 许晓东

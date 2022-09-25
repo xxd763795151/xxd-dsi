@@ -1,6 +1,6 @@
-package com.xuxd.dsi.proxy;
+package com.xxd.dsi.proxy;
 
-import com.xuxd.dsi.invoke.MethodInvoker;
+import com.xxd.dsi.invoke.MethodInvoker;
 
 import java.lang.reflect.Method;
 import java.util.Map;
